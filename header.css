@@ -1,0 +1,33 @@
+/* header */
+
+.prenom {
+    color: #282828;
+    margin-top: 18vh;
+    font-family: 'Lobster';
+    font-size: 7em;
+    display: flex;
+    justify-content: center;
+}
+
+.description {
+    color: #282828;
+    font-family: 'Lobster';
+    font-size: 2.8em;
+    display: flex;
+    justify-content: center;
+
+}
+
+.img{
+  margin-top:11vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  text-align: center;
+}
+
+.imgun{
+  border: solid black 1px;
+  border-radius: 45px;
+  box-shadow: 4px 3px 3px black;
+}

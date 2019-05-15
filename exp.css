@@ -1,0 +1,55 @@
+
+/* Experience */
+
+.experience {
+    margin-top: 18vh;
+    color:white;
+    background-color: #282828;
+    font-family: 'Roboto', sans-serif;
+    padding: 50px 0;
+  
+  }
+  
+  .experience h1 {
+    text-align: center;
+    font-size: 3.5em;
+    margin-bottom: 20px;
+  }
+  
+  .experience ul {
+    list-style-type: square;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  
+  }
+  
+  .experience ul li {
+    margin: 10px;
+    font-size: 1.4em
+  }
+  
+  .color {
+    color : coral;
+  }
+  
+  /* Diplome */
+  
+  .diplome {
+    color: #282828;
+    padding: 50px 0;
+    font-size: 1.4em;
+    text-align: center;
+  
+  }
+  
+  .diplome h1 {
+    text-align: center;
+    font-size: 3.5em;
+    margin-bottom: 20px;
+  }
+  
+  .diplome li {
+    padding: 18px;
+  }
+  
